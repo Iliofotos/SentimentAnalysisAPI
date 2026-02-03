@@ -15,6 +15,8 @@ A Flask REST API that analyzes text sentiment using a custom-trained machine lea
 - **Statistics Dashboard** — Track total predictions and sentiment breakdown
 
 ## 📸 Screenshots
+<img width="1602" height="1113" alt="image" src="https://github.com/user-attachments/assets/b52a1919-833f-449e-a21f-05e477cf063d" />
+<img width="981" height="682" alt="image" src="https://github.com/user-attachments/assets/4b429c75-3da0-4052-a138-e770604f83c8" />
 
 ### Home Page
 - Analyze text form
